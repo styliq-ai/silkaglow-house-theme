@@ -1,5 +1,5 @@
 # SilkaGlow House theme
 
-Latest: **SilkaGlow-House-READY.zip** (House v80)
+Latest: **SilkaGlow-House-READY.zip** (House v81)
 
-Password page: one description. The face crop is gone. Four intelligences video sits in its place.
+Faster door (no autoplay video). One password story. Memberships say what you get.
