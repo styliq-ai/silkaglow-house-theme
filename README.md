@@ -1,7 +1,7 @@
 # SilkaGlow House theme
 
-Shopify theme zip for silkaglow.com.
+Latest: **SilkaGlow-House-READY.zip** (House v78)
 
-Download the latest release: **SilkaGlow-House-READY.zip** (House v77)
+The bag now lists every product with + / − and Remove, then the cash card, then checkout.
 
-Upload as a new unpublished theme, preview, keep the store password on.
+Upload as a new unpublished theme. Preview that draft. Keep the store password on.
