@@ -1,3 +1,3 @@
 # SilkaGlow House theme
 
-Latest: **SilkaGlow-House-READY.zip** (House v82)
+Latest: **SilkaGlow-House-READY.zip** (House v83)
