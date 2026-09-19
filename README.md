@@ -16,3 +16,7 @@ Previous: `SilkaGlow-House-v109-logo-only.zip` (restore header logo asset).
 - Header logo enlarged for balance vs search + account name + bag (CSS + liquid width clamp only).
 - Insider sheet: WhatsApp and Text are independent share channels (pairs with app PR).
 - CTAs / quiz / rooms / Greisy doors unchanged from v108.
+
+## v111 — Insider share total-day + earn >$20
+Synced `snippets/silka-insider.liquid` with app PR #136: one completed share/day total (all channels grey until midnight ET), self-share blocked, SilkaGlow earn only when bag is over $20. HOLD merge for Greisy.
+
