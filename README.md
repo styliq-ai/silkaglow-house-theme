@@ -1,9 +1,18 @@
 # SilkaGlow House theme
 
-Latest draft upload: **SilkaGlow-House-v107-greisy-quiz-feedback.zip** (House v107 — Greisy quiz lux feedback: picker breathes + strong selected; answer/confirm black; results lux kept; Body adds weight loss + body shape)
+Shopify theme zips for silkaglow.com (Dawn-based SilkaGlow House).
 
-Live store reference: House v104 until v107 is previewed and approved. Brand PR #2 still holds merge until Greisy confirms.
+Latest draft upload: **SilkaGlow-House-v110-logo-balance.zip** (House v110 — enlarge header SilkaGlow logo to luxury scale; Insider WhatsApp/Text channel isolation JS on v109 tip).
 
-## Shopify upload
-Admin → Online Store → Themes → Add theme → Upload zip → preview as draft.
-Password page shows SilkaGlow (no Shopify credit). Store password stays ON.
+Previous: `SilkaGlow-House-v109-logo-only.zip` (restore header logo asset).
+
+## Upload (draft only — password ON)
+1. Download the latest zip from this repo / PR.
+2. Shopify Admin → Online Store → Themes → Add theme → Upload zip.
+3. Preview as draft. Do **not** publish until Greisy confirms.
+4. Store password stays ON.
+
+## v110 notes
+- Header logo enlarged for balance vs search + account name + bag (CSS + liquid width clamp only).
+- Insider sheet: WhatsApp and Text are independent share channels (pairs with app PR).
+- CTAs / quiz / rooms / Greisy doors unchanged from v108.
