@@ -2,9 +2,9 @@
 
 Shopify theme zips for silkaglow.com (Dawn-based SilkaGlow House).
 
-Latest draft upload: **SilkaGlow-House-v112-perf.zip** (House v112 — store first-paint / weight perf; CTAs + logo from v108–v110 tip).
+Latest draft upload: **SilkaGlow-House-v110-logo-balance.zip** (House v110 — enlarge header SilkaGlow logo to luxury scale; Insider WhatsApp/Text channel isolation JS on v109 tip).
 
-Previous on main: `SilkaGlow-House-v110-logo-balance.zip`.
+Previous: `SilkaGlow-House-v109-logo-only.zip` (restore header logo asset).
 
 ## Upload (draft only — password ON)
 1. Download the latest zip from this repo / PR.
@@ -12,17 +12,11 @@ Previous on main: `SilkaGlow-House-v110-logo-balance.zip`.
 3. Preview as draft. Do **not** publish until Greisy confirms.
 4. Store password stays ON.
 
-## v112 — store perf (HOLD merge until Greisy confirms speed)
-Fail-closed. No visual redesign. Points / Insider share-day theme PR #4 stays HOLD separately (not in this zip).
+## v110 notes
+- Header logo enlarged for balance vs search + account name + bag (CSS + liquid width clamp only).
+- Insider sheet: WhatsApp and Text are independent share channels (pairs with app PR).
+- CTAs / quiz / rooms / Greisy doors unchanged from v108.
 
-- Defer non-critical JS (Insider sheet boot, memory bridge, countdown)
-- Concierge iframes hydrate after idle / intersect / open (not eager)
-- Lazy/non-blocking CSS for Silka account/membership/checkout/buttons
-- Drop unused joypixels CDN + webfont preloads (swap remains)
-- Compress header logo (~103KB → ~29KB); orb GIF recompressed
-- Greisy doors / GlowMatch CTAs / logo layout from v108–v110 unchanged
+## v111 — Insider share total-day + earn >$20
+Synced `snippets/silka-insider.liquid` with app PR #136: one completed share/day total (all channels grey until midnight ET), self-share blocked, SilkaGlow earn only when bag is over $20. HOLD merge for Greisy.
 
-## v110 notes (on main)
-- Header logo enlarged for balance vs search + account name + bag
-- Insider sheet WhatsApp/Text channel isolation (pairs with app)
-- CTAs / quiz / rooms / Greisy doors unchanged from v108
