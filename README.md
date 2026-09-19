@@ -1,12 +1,17 @@
 # SilkaGlow House theme
 
-Latest draft upload: **SilkaGlow-House-v108-cta-fix.zip** (House v108 — restore Why IQ GlowMatch AI Start the Quiz / The rooms click handlers; rooms.silkaglow.com quiz host; mobile X only in quiz; header logo contain)
+Shopify theme zips for silkaglow.com (Dawn-based SilkaGlow House).
 
-Live store reference: House v104 until v108 is previewed and approved.
+Latest draft upload: **SilkaGlow-House-v109-logo-only.zip** (House v109 — restore header SilkaGlow logo from theme assets; logo-only on top of v108 CTA fix).
 
-## Shopify upload
-Admin → Online Store → Themes → Add theme → Upload zip → preview as draft.
-Password page shows SilkaGlow (no Shopify credit). Store password stays ON.
+Previous: `SilkaGlow-House-v108-cta-fix.zip` (Start the Quiz / The rooms handlers).
 
-## v108 root cause
-House v104-why-lux lux CSS rewrite dropped the portal `<script>` that wired `data-gm-start` / `data-gm-rooms`, so both bottoms did nothing on draft preview.
+## Upload (draft only — password ON)
+1. Download the latest zip from this repo / PR.
+2. Shopify Admin → Online Store → Themes → Add theme → Upload zip.
+3. Preview as draft. Do **not** publish until Greisy confirms.
+4. Store password stays ON.
+
+## v109 notes
+- Header logo restored via bundled `assets/silka-header-logo.png` (no shop_images dependency).
+- CTAs / quiz / rooms / Greisy doors unchanged from v108.
