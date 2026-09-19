@@ -2,7 +2,7 @@
 
 Shopify theme zips for silkaglow.com (Dawn-based SilkaGlow House).
 
-Latest draft upload: **SilkaGlow-House-v112-perf.zip** (House v112 — store first-paint / weight perf; CTAs + logo from v108–v110 tip).
+Latest draft upload: **SilkaGlow-House-v112-home-perf.zip** (House v112 — **homepage** first paint / LCP only; CTAs + logo from v108–v110 tip).
 
 Previous on main: `SilkaGlow-House-v110-logo-balance.zip`.
 
@@ -12,17 +12,12 @@ Previous on main: `SilkaGlow-House-v110-logo-balance.zip`.
 3. Preview as draft. Do **not** publish until Greisy confirms.
 4. Store password stays ON.
 
-## v112 — store perf (HOLD merge until Greisy confirms speed)
-Fail-closed. No visual redesign. Points / Insider share-day theme PR #4 stays HOLD separately (not in this zip).
+## v112-home-perf — homepage LCP (HOLD merge)
+Fail-closed. Scope = **silkaglow.com home** (header, announcement, concierge, GlowMatch cinema banner, below-fold). Rooms / GlowMatch app code-split deferred. Points theme PR #4 stays HOLD separately.
 
-- Defer non-critical JS (Insider sheet boot, memory bridge, countdown)
-- Concierge iframes hydrate after idle / intersect / open (not eager)
-- Lazy/non-blocking CSS for Silka account/membership/checkout/buttons
-- Drop unused joypixels CDN + webfont preloads (swap remains)
-- Compress header logo (~103KB → ~29KB); orb GIF recompressed
-- Greisy doors / GlowMatch CTAs / logo layout from v108–v110 unchanged
-
-## v110 notes (on main)
-- Header logo enlarged for balance vs search + account name + bag
-- Insider sheet WhatsApp/Text channel isolation (pairs with app)
-- CTAs / quiz / rooms / Greisy doors unchanged from v108
+- Defer Insider sheet, memory bridge, countdown, non-critical CSS
+- Concierge iframes hydrate after idle / intersect / open
+- Cinema: poster-first; mp4 sources only near viewport; posters compressed
+- Ending reel: no autoplay until intersect
+- Header logo ~103KB → ~29KB; drop unused joypixels + webfont preloads
+- Greisy doors / GlowMatch CTAs / logo layout unchanged
