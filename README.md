@@ -2,7 +2,9 @@
 
 Shopify theme zips for silkaglow.com (Dawn-based SilkaGlow House).
 
-Latest draft upload: **SilkaGlow-House-v115.zip** (v113 purchase-only + password membership benefits).
+Latest: **SilkaGlow-House-v116.zip**
+
+Latest draft upload: **SilkaGlow-House-v116.zip** (v113 purchase-only + password membership benefits).
 
 ## Upload (draft only — password ON)
 1. Download the latest zip from this repo / PR.
