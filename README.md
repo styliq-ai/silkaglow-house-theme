@@ -2,13 +2,18 @@
 
 Shopify theme zips for silkaglow.com (Dawn-based SilkaGlow House).
 
-Latest draft upload: **SilkaGlow-House-v113-purchase-only.zip** (House v112 home perf base + Insider purchase-only sheet; includes #3 logo/CTAs).
+Latest draft upload: **SilkaGlow-House-v114.zip** (v113 purchase-only + password membership benefits).
 
 ## Upload (draft only — password ON)
 1. Download the latest zip from this repo / PR.
 2. Shopify Admin → Online Store → Themes → Add theme → Upload zip.
 3. Preview as draft. Do **not** publish until Greisy confirms.
 4. Store password stays ON.
+
+## v114 — Password membership clarity (this chat)
+- Built on **v113 purchase-only**. Insider share still = 0 points.
+- Password page: **Soft Launch — Now** vs **Official Public Launch — December 31, 2026**.
+- Starter / Guided / Pro cards with four concrete bullets (routine builder, photo tracking, full four intelligences).
 
 ## v113 — Purchase-only Insider (pairs with app PR #136)
 - Built on **v112 home first-paint** so store speed stays (supersedes theme PR #5).
