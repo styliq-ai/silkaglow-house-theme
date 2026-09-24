@@ -1,3 +1,7 @@
+## SilkaGlow House v124
+
+Phone/password seal orb storewide (except quiz portals) and on all Secret Room surfaces/portals. Stacks on v123 shared animated Cash card + v122 fail-closed Apply.
+
 ## SilkaGlow House v123
 
 Shared animated SilkaGlow Cash card (coin field) on Guided/Pro membership unlock — same card as cart/Beauty Insider. Stacks on v122 fail-closed Apply (redeem only when API returns a real `code`).
