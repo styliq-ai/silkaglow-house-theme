@@ -1,3 +1,27 @@
+## SilkaGlow House v127
+
+Surgical: homepage Members “Enter the secret” restores v123 door photo. Secret seal stays on Secret vault/portals/inside only. Password/home phone orb from v126 untouched.
+
+## SilkaGlow House v126
+
+Literal copy-paste of v123 `silkaglow-mobile-orb*` onto phone home, desktop home, and password page. Secret seal stays Secret-only. Fixes v125 rewrite.
+
+## SilkaGlow House v125
+
+Corrects v124 orb mix-up: **phone-banner orb** (v123 mobile home) for password + main banners; **secret seal** only on Secret Room surfaces/portals. Keeps v123 Cash card.
+
+## SilkaGlow House v124
+
+Phone/password seal orb storewide (except quiz portals) and on all Secret Room surfaces/portals. Stacks on v123 shared animated Cash card + v122 fail-closed Apply.
+
+## SilkaGlow House v123
+
+Shared animated SilkaGlow Cash card (coin field) on Guided/Pro membership unlock — same card as cart/Beauty Insider. Stacks on v122 fail-closed Apply (redeem only when API returns a real `code`).
+
+## SilkaGlow House v122
+
+Cart SilkaGlow Cash Apply is fail-closed: no standing SGCASH10 fallback when points are under 2,500. Applied pill stays disabled.
+
 # SilkaGlow House theme
 
 Shopify theme zips for silkaglow.com (Dawn-based SilkaGlow House).
