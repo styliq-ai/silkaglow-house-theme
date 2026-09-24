@@ -1,3 +1,7 @@
+## SilkaGlow House v130
+
+Real **door-enter VIDEO** (MP4/WebM): Members **Enter the secret** → fullscreen door opens with soft gold/cream smoke → camera walks through → vault page. **Zero** seal/SILKA/quiz orb on Secret vault chrome (door video is Secret identity). `prefers-reduced-motion` skips video → vault. Homepage Members door card stays static; password/home phone orb + Cash card unchanged. Replaces v129 CSS cinematic.
+
 ## SilkaGlow House v129
 
 Cinematic **Enter the secret**: closed Members door → opens → soft gold smoke → walk-through (~4s) → vault destination page (small seal + Enter the vault). Not a stacked door+vault+quiz-orb page. Quiz/SILKA/hero-orb fail-closed on Secret only. Homepage Members door stays static (v127/v128). Password/home phone orb + Cash card unchanged. `open-my-glow-room` iframe points at rooms `/door` porch (Face ID + text code).
