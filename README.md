@@ -1,3 +1,7 @@
+## SilkaGlow House v122
+
+Cart SilkaGlow Cash Apply is fail-closed: no standing SGCASH10 fallback when points are under 2,500. Applied pill stays disabled.
+
 # SilkaGlow House theme
 
 Shopify theme zips for silkaglow.com (Dawn-based SilkaGlow House).
