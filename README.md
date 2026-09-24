@@ -1,3 +1,7 @@
+## SilkaGlow House v129
+
+Cinematic **Enter the secret**: closed Members door → opens → soft gold smoke → walk-through (~4s) → vault destination page (small seal + Enter the vault). Not a stacked door+vault+quiz-orb page. Quiz/SILKA/hero-orb fail-closed on Secret only. Homepage Members door stays static (v127/v128). Password/home phone orb + Cash card unchanged. `open-my-glow-room` iframe points at rooms `/door` porch (Face ID + text code).
+
 ## SilkaGlow House v128
 
 Secret vault portal: Members door (smoky soft-gold open) + small seal. Quiz / SILKA / hero-orb stripped from Secret surfaces only. Homepage Members door, password/home phone orb (v123), Cash card, membership Weekly-gift seal unchanged from v127.
