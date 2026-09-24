@@ -1,3 +1,7 @@
+## SilkaGlow House v127
+
+Surgical: homepage Members “Enter the secret” restores v123 door photo. Secret seal stays on Secret vault/portals/inside only. Password/home phone orb from v126 untouched.
+
 ## SilkaGlow House v126
 
 Literal copy-paste of v123 `silkaglow-mobile-orb*` onto phone home, desktop home, and password page. Secret seal stays Secret-only. Fixes v125 rewrite.
