@@ -1,3 +1,7 @@
+## SilkaGlow House v128
+
+Secret vault portal: Members door (smoky soft-gold open) + small seal. Quiz / SILKA / hero-orb stripped from Secret surfaces only. Homepage Members door, password/home phone orb (v123), Cash card, membership Weekly-gift seal unchanged from v127.
+
 ## SilkaGlow House v127
 
 Surgical: homepage Members “Enter the secret” restores v123 door photo. Secret seal stays on Secret vault/portals/inside only. Password/home phone orb from v126 untouched.
