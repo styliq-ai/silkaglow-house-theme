@@ -1,3 +1,7 @@
+## SilkaGlow House v126
+
+Literal copy-paste of v123 `silkaglow-mobile-orb*` onto phone home, desktop home, and password page. Secret seal stays Secret-only. Fixes v125 rewrite.
+
 ## SilkaGlow House v125
 
 Corrects v124 orb mix-up: **phone-banner orb** (v123 mobile home) for password + main banners; **secret seal** only on Secret Room surfaces/portals. Keeps v123 Cash card.
