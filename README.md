@@ -1,3 +1,11 @@
+## SilkaGlow House v123
+
+Shared animated SilkaGlow Cash card (coin field) on Guided/Pro membership unlock — same card as cart/Beauty Insider. Stacks on v122 fail-closed Apply (redeem only when API returns a real `code`).
+
+## SilkaGlow House v122
+
+Cart SilkaGlow Cash Apply is fail-closed: no standing SGCASH10 fallback when points are under 2,500. Applied pill stays disabled.
+
 # SilkaGlow House theme
 
 Shopify theme zips for silkaglow.com (Dawn-based SilkaGlow House).
