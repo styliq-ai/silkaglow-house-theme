@@ -1,3 +1,7 @@
+## SilkaGlow House v125
+
+Corrects v124 orb mix-up: **phone-banner orb** (v123 mobile home) for password + main banners; **secret seal** only on Secret Room surfaces/portals. Keeps v123 Cash card.
+
 ## SilkaGlow House v124
 
 Phone/password seal orb storewide (except quiz portals) and on all Secret Room surfaces/portals. Stacks on v123 shared animated Cash card + v122 fail-closed Apply.
