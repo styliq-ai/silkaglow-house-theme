@@ -1,3 +1,7 @@
+## SilkaGlow House v132
+
+**Enter the Secret cinematic ride** — Greisy’s v131 fixes. Closed double doors → open → **flowering / luxury smoke toward camera** (not center tornado) → secret-seal orb emerges **through residual clouds** → clouds clear → clear seal → soft handoff → vault with mini seal. Black hang killed (~0.92s → ~0). No SILKA in video or Secret chrome. Password/home phone orb + Cash + Members static door + quiz portals untouched. Stacks on v131 / PR #15.
+
 ## SilkaGlow House v131
 
 **Closed double-door enter VIDEO** + secret-seal bridge. Members **Enter the secret** → fully closed ornate double doors (frame 0) → both leaves open + soft gold smoke → brief secret-seal orb (~1s, no SILKA) → vault page with small seal restored above **The vault**. Fail-closed: never GlowOrb/SILKA/quiz on Secret. `prefers-reduced-motion` skips video → vault. Password/home phone orb + Cash + Members static door card unchanged. Stacks on v130.
