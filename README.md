@@ -1,3 +1,7 @@
+## SilkaGlow House v134
+
+Secret vault: **warm glow around the mini secret seal** (Greisy's one v133 note). Mini seal (52px) gets the same soft gold/#1c1611 radial halo as the password-page seal ("The house is not empty."), from first paint, gentle 7s breathing (static under `prefers-reduced-motion`). Only `sections/silka-secrets-vault.liquid` + theme name changed. Vault iframe no-SILKA-flash (v133), video (v132), password/home phone orb, Members static door, quiz, Cash untouched.
+
 ## SilkaGlow House v133
 
 Secret vault: **no SILKA orb flash in the first 2–3 seconds.** Production rooms paints the quiz GlowOrb during its portal/hydration beat; the vault iframe is now invisible from first paint and fades in only after rooms is past `portal` (explicit stage from new rooms build, or 3rd legacy frame-height from today's production). Theme mini secret seal on top of the vault stays. Video unchanged from v132. Password/home phone orb, Members static door, quiz, Cash untouched.
