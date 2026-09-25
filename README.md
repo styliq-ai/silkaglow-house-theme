@@ -1,3 +1,7 @@
+## SilkaGlow House v133
+
+Secret vault: **no SILKA orb flash in the first 2–3 seconds.** Production rooms paints the quiz GlowOrb during its portal/hydration beat; the vault iframe is now invisible from first paint and fades in only after rooms is past `portal` (explicit stage from new rooms build, or 3rd legacy frame-height from today's production). Theme mini secret seal on top of the vault stays. Video unchanged from v132. Password/home phone orb, Members static door, quiz, Cash untouched.
+
 ## SilkaGlow House v132
 
 **Enter the Secret cinematic ride** — Greisy’s v131 fixes. Closed double doors → open → **flowering / luxury smoke toward camera** (not center tornado) → secret-seal orb emerges **through residual clouds** → clouds clear → clear seal → soft handoff → vault with mini seal. Black hang killed (~0.92s → ~0). No SILKA in video or Secret chrome. Password/home phone orb + Cash + Members static door + quiz portals untouched. Stacks on v131 / PR #15.
