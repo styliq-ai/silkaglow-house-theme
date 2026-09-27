@@ -2,9 +2,9 @@
 
 Shopify theme zips for silkaglow.com (Dawn-based SilkaGlow House).
 
-Latest: **SilkaGlow-House-v117.zip**
+Latest draft upload: **SilkaGlow-House-v136-secret-film.zip**
 
-Latest draft upload: **SilkaGlow-House-v117.zip** (v113 purchase-only + password membership benefits).
+Upload that zip as an unpublished theme. Do not publish. Enter the Secret stays in the theme: a gold-light film, then the scroll story. Membership is the last card. Older zips are unchanged.
 
 ## Upload (draft only — password ON)
 1. Download the latest zip from this repo / PR.
